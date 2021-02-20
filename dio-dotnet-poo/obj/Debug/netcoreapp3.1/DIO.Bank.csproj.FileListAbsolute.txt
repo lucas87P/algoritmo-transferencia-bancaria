@@ -1,0 +1,26 @@
+/home/eliezer/sandbox/dio/DIO.Bank/bin/Debug/netcoreapp3.1/DIO.Bank
+/home/eliezer/sandbox/dio/DIO.Bank/bin/Debug/netcoreapp3.1/DIO.Bank.deps.json
+/home/eliezer/sandbox/dio/DIO.Bank/bin/Debug/netcoreapp3.1/DIO.Bank.runtimeconfig.json
+/home/eliezer/sandbox/dio/DIO.Bank/bin/Debug/netcoreapp3.1/DIO.Bank.runtimeconfig.dev.json
+/home/eliezer/sandbox/dio/DIO.Bank/bin/Debug/netcoreapp3.1/DIO.Bank.dll
+/home/eliezer/sandbox/dio/DIO.Bank/bin/Debug/netcoreapp3.1/DIO.Bank.pdb
+/home/eliezer/sandbox/dio/DIO.Bank/obj/Debug/netcoreapp3.1/DIO.Bank.csprojAssemblyReference.cache
+/home/eliezer/sandbox/dio/DIO.Bank/obj/Debug/netcoreapp3.1/DIO.Bank.AssemblyInfoInputs.cache
+/home/eliezer/sandbox/dio/DIO.Bank/obj/Debug/netcoreapp3.1/DIO.Bank.AssemblyInfo.cs
+/home/eliezer/sandbox/dio/DIO.Bank/obj/Debug/netcoreapp3.1/DIO.Bank.csproj.CoreCompileInputs.cache
+/home/eliezer/sandbox/dio/DIO.Bank/obj/Debug/netcoreapp3.1/DIO.Bank.dll
+/home/eliezer/sandbox/dio/DIO.Bank/obj/Debug/netcoreapp3.1/DIO.Bank.pdb
+/home/eliezer/sandbox/dio/DIO.Bank/obj/Debug/netcoreapp3.1/DIO.Bank.genruntimeconfig.cache
+E:\Documentos\Sistema Conteúdos e Trabalhos\IFPR MINHA TURMA\Cursos Complementares\2 - NET Fundamentals\6 - Criando uma aplicação de transferência bancária com .NET\dio\bin\Debug\netcoreapp3.1\DIO.Bank.exe
+E:\Documentos\Sistema Conteúdos e Trabalhos\IFPR MINHA TURMA\Cursos Complementares\2 - NET Fundamentals\6 - Criando uma aplicação de transferência bancária com .NET\dio\bin\Debug\netcoreapp3.1\DIO.Bank.deps.json
+E:\Documentos\Sistema Conteúdos e Trabalhos\IFPR MINHA TURMA\Cursos Complementares\2 - NET Fundamentals\6 - Criando uma aplicação de transferência bancária com .NET\dio\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.json
+E:\Documentos\Sistema Conteúdos e Trabalhos\IFPR MINHA TURMA\Cursos Complementares\2 - NET Fundamentals\6 - Criando uma aplicação de transferência bancária com .NET\dio\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.dev.json
+E:\Documentos\Sistema Conteúdos e Trabalhos\IFPR MINHA TURMA\Cursos Complementares\2 - NET Fundamentals\6 - Criando uma aplicação de transferência bancária com .NET\dio\bin\Debug\netcoreapp3.1\DIO.Bank.dll
+E:\Documentos\Sistema Conteúdos e Trabalhos\IFPR MINHA TURMA\Cursos Complementares\2 - NET Fundamentals\6 - Criando uma aplicação de transferência bancária com .NET\dio\bin\Debug\netcoreapp3.1\DIO.Bank.pdb
+E:\Documentos\Sistema Conteúdos e Trabalhos\IFPR MINHA TURMA\Cursos Complementares\2 - NET Fundamentals\6 - Criando uma aplicação de transferência bancária com .NET\dio\obj\Debug\netcoreapp3.1\DIO.Bank.csprojAssemblyReference.cache
+E:\Documentos\Sistema Conteúdos e Trabalhos\IFPR MINHA TURMA\Cursos Complementares\2 - NET Fundamentals\6 - Criando uma aplicação de transferência bancária com .NET\dio\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfoInputs.cache
+E:\Documentos\Sistema Conteúdos e Trabalhos\IFPR MINHA TURMA\Cursos Complementares\2 - NET Fundamentals\6 - Criando uma aplicação de transferência bancária com .NET\dio\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfo.cs
+E:\Documentos\Sistema Conteúdos e Trabalhos\IFPR MINHA TURMA\Cursos Complementares\2 - NET Fundamentals\6 - Criando uma aplicação de transferência bancária com .NET\dio\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.CoreCompileInputs.cache
+E:\Documentos\Sistema Conteúdos e Trabalhos\IFPR MINHA TURMA\Cursos Complementares\2 - NET Fundamentals\6 - Criando uma aplicação de transferência bancária com .NET\dio\obj\Debug\netcoreapp3.1\DIO.Bank.dll
+E:\Documentos\Sistema Conteúdos e Trabalhos\IFPR MINHA TURMA\Cursos Complementares\2 - NET Fundamentals\6 - Criando uma aplicação de transferência bancária com .NET\dio\obj\Debug\netcoreapp3.1\DIO.Bank.pdb
+E:\Documentos\Sistema Conteúdos e Trabalhos\IFPR MINHA TURMA\Cursos Complementares\2 - NET Fundamentals\6 - Criando uma aplicação de transferência bancária com .NET\dio\obj\Debug\netcoreapp3.1\DIO.Bank.genruntimeconfig.cache
